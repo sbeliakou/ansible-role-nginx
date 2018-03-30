@@ -1,2 +1,3 @@
 ---
 - debug: msg="role nginx"
+- debug: msg="version=master"
