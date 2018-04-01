@@ -1,4 +1,4 @@
 ---
 - debug: msg="role nginx"
 - debug: msg="version=master"
-- debug: msg="ok then"
+# - debug: msg="ok then"
